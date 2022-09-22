@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 safasdgasdhb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
 =======
 BBBBBBBBBBBBBB
@@ -7,3 +8,6 @@ BBBBBBBBBBBBBB
 =======
 BBBBBBBBBBBBBBbbbbbbbbbb22
 >>>>>>> human2
+=======
+AAAAAAAAAAAAAAAAAAAA
+>>>>>>> human1
